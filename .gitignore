@@ -1,5 +1,0 @@
-# ignore a single file
-.directory
-
-# ignore an entire directory
-.ipynb_checkpoints/*
